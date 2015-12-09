@@ -2,12 +2,12 @@
 我们的翻译组
 
 ## 翻译列表
-- [How to colonize Mars](https://github.com/LuckyBrick/LuckyBrick/issues/1)
-- [Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
-- [What is a coder's worst nightmare?](https://github.com/LuckyBrick/LuckyBrick/issues/3)
-- [Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
+- [［待认领］How to colonize Mars](https://github.com/LuckyBrick/LuckyBrick/issues/1)
+- [［待认领］Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
+- [［待认领］What is a coder's worst nightmare?](https://github.com/LuckyBrick/LuckyBrick/issues/3)
+- [［待认领］Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
 - [［吴迪认领］Airbnb JavaScript Style Guide](https://github.com/LuckyBrick/LuckyBrick/issues/5)
 - [［刘文认领］Accuracy of JavaScript Time](https://github.com/LuckyBrick/LuckyBrick/issues/6)
 - [［熊卓然认领］how-javascript-timers-work](https://github.com/LuckyBrick/LuckyBrick/issues/7)
 - [［李晗认领］analyzing-timer-performance](https://github.com/LuckyBrick/LuckyBrick/issues/8)
-- [Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
+- [［待认领］Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
