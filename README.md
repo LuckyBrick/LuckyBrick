@@ -2,7 +2,7 @@
 我们的翻译组
 
 ## 翻译列表
-- [［待认领］How to colonize Mars](https://github.com/LuckyBrick/LuckyBrick/issues/1)
+1. [［待认领］How to colonize Mars](https://github.com/LuckyBrick/LuckyBrick/issues/1)
 - [［待认领］Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
 - [［待认领］What is a coder's worst nightmare?](https://github.com/LuckyBrick/LuckyBrick/issues/3)
 - [［待认领］Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
