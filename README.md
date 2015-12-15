@@ -11,3 +11,4 @@
 - [［**待检查**］how-javascript-timers-work](https://github.com/LuckyBrick/LuckyBrick/issues/7)
 - [［**待检查**］analyzing-timer-performance](https://github.com/LuckyBrick/LuckyBrick/issues/8)
 - [［待认领］Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
+- [ [待认领] Iterating ES6 Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/10)
