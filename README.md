@@ -12,3 +12,4 @@
 - [［**待检查**］analyzing-timer-performance](https://github.com/LuckyBrick/LuckyBrick/issues/8)
 - [［待认领］Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
 - [［待认领］Iterating ES6 Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/10)
+- [［待认领］LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS. ](https://github.com/LuckyBrick/LuckyBrick/issues/11)
