@@ -8,7 +8,7 @@
 - [［待认领］Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
 - [［吴迪认领］Airbnb JavaScript Style Guide](https://github.com/LuckyBrick/LuckyBrick/issues/5)
 - [［刘文认领］Accuracy of JavaScript Time](https://github.com/LuckyBrick/LuckyBrick/issues/6)
-- [［**待检查**］how-javascript-timers-work](https://github.com/LuckyBrick/LuckyBrick/issues/7)
+- [［**待检查** 请卓然继续再修改一下 by WK］how-javascript-timers-work](https://github.com/LuckyBrick/LuckyBrick/issues/7)
 - [［**待检查**］analyzing-timer-performance](https://github.com/LuckyBrick/LuckyBrick/issues/8)
 - [［待认领］Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
 - [［待认领］Iterating ES6 Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/10)
