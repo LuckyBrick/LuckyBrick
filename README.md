@@ -6,7 +6,7 @@
 - [［待认领］Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
 - [［待认领］What is a coder's worst nightmare?](https://github.com/LuckyBrick/LuckyBrick/issues/3)
 - [［待认领］Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
-- [［吴迪认领］Airbnb JavaScript Style Guide](https://github.com/LuckyBrick/LuckyBrick/issues/5)
+- [［***待检查***］Airbnb JavaScript Style Guide](https://github.com/LuckyBrick/LuckyBrick/issues/5)
 - [［刘文认领］Accuracy of JavaScript Time](https://github.com/LuckyBrick/LuckyBrick/issues/6)
 - [［**待检查** 请卓然继续再修改一下 by WK］how-javascript-timers-work](https://github.com/LuckyBrick/LuckyBrick/issues/7)
 - [［**检查完，语言流畅**］analyzing-timer-performance](https://github.com/LuckyBrick/LuckyBrick/issues/8)
