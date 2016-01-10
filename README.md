@@ -3,7 +3,7 @@
 
 ## 翻译列表
 1. [［刘文认领］How to colonize Mars](https://github.com/LuckyBrick/LuckyBrick/issues/1)
-- [［吴迪认领］Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
+- [［***待检查***］Pay Attention to "angular.merge" in 1.4 on Date Properties](https://github.com/LuckyBrick/LuckyBrick/issues/2)
 - [［待认领］What is a coder's worst nightmare?](https://github.com/LuckyBrick/LuckyBrick/issues/3)
 - [［元平认领］Why is programming so hard?](https://github.com/LuckyBrick/LuckyBrick/issues/4)
 - [［***待检查***］Airbnb JavaScript Style Guide](https://github.com/LuckyBrick/LuckyBrick/issues/5)
