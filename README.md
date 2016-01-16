@@ -13,6 +13,6 @@
 - [［小英认领］Choosing an HTTP Status Code — Stop Making It Hard](https://github.com/LuckyBrick/LuckyBrick/issues/9)
 - [［李晗认领］Iterating ES6 Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/10)
 - [［张磊认领］LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS. ](https://github.com/LuckyBrick/LuckyBrick/issues/11)
-- [［吴迪认领］Grunt vs Gulp - Beyond the Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/12)
+- [［已翻译］Grunt vs Gulp - Beyond the Numbers](https://github.com/LuckyBrick/LuckyBrick/issues/12)
 - [［待认领］Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016. ](https://github.com/LuckyBrick/LuckyBrick/issues/13)
 - [［待认领］One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases ](https://github.com/LuckyBrick/LuckyBrick/issues/14)
