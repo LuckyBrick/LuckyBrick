@@ -25,7 +25,7 @@ Firefox 3在整体性能（内存、速度、UI响应，JavaScript等）上做�
 该图的组织顺序依次为：（从左上，顺时针方向）Firefox2，Safari3，Opera9，Firefox3.
 ![](http://i1.wp.com/ejohn.org/files/timers.png)
 
-**setTimeout**: [0ms延时](http://ejohn.org/files/timers-0.png)，[10ms延时](http://ejohn.org/files/timers-10.png)，[20ms延时](http://ejohn.org/files/timers-20.png)
+**setTimeout**:[0ms延时](http://ejohn.org/files/timers-0.png)，[10ms延时](http://ejohn.org/files/timers-10.png)，[20ms延时](http://ejohn.org/files/timers-20.png)
 ![](http://i2.wp.com/ejohn.org/files/intervals.png)
 
 **setInterval**:[0ms延时](http://ejohn.org/files/intervals-0.png),[10ms延时](http://ejohn.org/files/intervals-10.png),[20ms延时](http://ejohn.org/files/intervals-20.png)  
