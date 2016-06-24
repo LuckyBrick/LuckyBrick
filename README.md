@@ -17,7 +17,7 @@
 - <font color="#DA70D6">［待认领］</font>[Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016. ](https://github.com/LuckyBrick/LuckyBrick/issues/13)
 - <font color="#DAA520">［待检查］</font>[One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases ](https://github.com/LuckyBrick/LuckyBrick/issues/14)
 - <font color="#DA70D6">［待认领］</font> [The Secrets of React's Virtual DOM](https://github.com/LuckyBrick/LuckyBrick/issues/15)
-- <font color="#DA70D6">［吴迪认领］</font> [The state of Web Components](https://github.com/LuckyBrick/LuckyBrick/issues/16)
+- <font color="#DA70D6">［吴迪、周璇认领］</font> [The state of Web Components](https://github.com/LuckyBrick/LuckyBrick/issues/16)
 
 状态列表：
 <font color="#DA70D6">［待认领］</font>
